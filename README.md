@@ -1,4 +1,4 @@
-# Template
+# Styling Projects
 
 ## Install SASS
 
@@ -21,3 +21,7 @@ To compile sass to css using the command line:
 > sass index.scss index.css
 
 Tip: Look for auto-compile plugins for you favorite IDE. These can watch for changes in your scss and automatically compile when needed.
+
+---
+
+Date of creation: 7-18-2021
