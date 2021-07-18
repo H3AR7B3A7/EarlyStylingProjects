@@ -1,6 +1,6 @@
 # Template
 
-This is a template folder to ba able to easily start new projects, skipping the initial file setup.
+This is a template folder to be able to easily start new projects, skipping the initial file setup.
 
 ---
 
