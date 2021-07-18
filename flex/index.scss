@@ -1,0 +1,43 @@
+body {
+  background-color: rebeccapurple;
+  color: orange;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.parent1 {
+  background-color: orange;
+  width: 40rem;
+  height: 20rem;
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.parent2 {
+  background-color: orange;
+  width: 40rem;
+  height: 20rem;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.parent3 {
+  background-color: orange;
+  width: 40rem;
+  height: 20rem;
+  margin: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.child {
+  background-color: greenyellow;
+  width: 7rem;
+  height: 3rem;
+  margin: 1rem;
+}
