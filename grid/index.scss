@@ -1,4 +1,19 @@
 body {
   background-color: rebeccapurple;
   color: orange;
+  text-align: center;
+}
+
+.parent {
+  background-color: orange;
+  width: 40rem;
+  height: 20rem;
+  margin: 1rem;
+}
+
+.child {
+  background-color: greenyellow;
+  width: 7rem;
+  height: 3rem;
+  margin: 1rem;
 }
