@@ -4,7 +4,50 @@ body {
   text-align: center;
 }
 
-.parent {
+.parent1 {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  background-color: orange;
+  width: 40rem;
+  height: 20rem;
+  margin: 1rem;
+}
+
+.child1 {
+  background-color: greenyellow;
+  grid-row: 1;
+  grid-column: 1;
+  margin: 1rem;
+}
+.child2 {
+  background-color: greenyellow;
+  grid-row: 1/3;
+  grid-column: 2;
+  margin: 1rem;
+}
+.child3 {
+  background-color: greenyellow;
+  grid-row: 2/4;
+  grid-column: 1;
+  margin: 1rem;
+}
+.child4 {
+  background-color: greenyellow;
+  grid-row: 3;
+  grid-column: 2;
+  margin: 1rem;
+}
+
+.parent2 {
+  display: grid;
+  background-color: orange;
+  width: 40rem;
+  height: 20rem;
+  margin: 1rem;
+}
+
+.parent3 {
+  display: grid;
   background-color: orange;
   width: 40rem;
   height: 20rem;
