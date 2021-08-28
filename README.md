@@ -65,7 +65,7 @@ Color notations:
 
 Hsl-values are by far the most relatable notations of colors we can work with:
 
-[hsl](color/hsl.png)
+![hsl](color/hsl.png)
 
 They are:
 
