@@ -1,6 +1,15 @@
 # Styling Projects
 
-## Install SASS
+To run any of these inside a NGiNX docker container:
+
+- Make sure you have docker installed
+- Run the **build-container.sh** script
+- Make sure the created container is running in docker
+- Run the **dockerize.sh** script in the desired project folder
+
+_Just the last step will suffice to change between projects._
+
+## Installing SASS
 
 - Install Node.js:
 
