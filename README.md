@@ -9,6 +9,8 @@ To run any of these inside a NGiNX docker container:
 
 _Just the last step will suffice to change between projects._
 
+To visit the page go to: http://localhost:5000/
+
 ## Installing SASS
 
 - Install Node.js:
