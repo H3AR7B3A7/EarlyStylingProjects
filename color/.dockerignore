@@ -4,3 +4,4 @@ index.css.map
 dockerize.sh
 Dockerfile
 .dockerignore
+build-container.sh
