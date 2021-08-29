@@ -1,0 +1,35 @@
+body {
+  background-color: #333;
+  color: #ccc;
+}
+
+p,
+h1 {
+  margin: 5rem;
+}
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #777 #555;
+}
+
+html::-webkit-scrollbar {
+  width: 1vw;
+}
+
+html::-webkit-scrollbar-thumb {
+  background-color: #7775;
+}
+
+html::-webkit-scrollbar-thumb:hover {
+  background-color: #777;
+}
+
+html::-webkit-scrollbar-track {
+  background-color: #5555;
+}
+
+html::-webkit-scrollbar-track:hover {
+  background-color: #555;
+}
+/*# sourceMappingURL=index.css.map */
